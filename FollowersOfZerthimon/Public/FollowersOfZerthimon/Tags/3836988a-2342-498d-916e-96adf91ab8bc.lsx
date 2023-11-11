@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Character is proficient in Zerth training" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h52afd967g1385g4e17ga236g02f18b0aa496" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hd907bf24ga56ag42c2g9ee9g610bdad3e6d0" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="ZERTH" />
+			<attribute id="UUID" type="guid" value="3836988a-2342-498d-916e-96adf91ab8bc" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>						
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

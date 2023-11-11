@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328"/>
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Githzerai racial"/>
+          <attribute id="Spells" type="LSString" value="Shout_LimboKnowledge;Target_GZI_Training"/>
+          <attribute id="UUID" type="guid" value="c203ff42-09bc-4a9c-8b65-b13afd092573"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="GIthzerai Level 3"/>
+          <attribute id="Spells" type="LSString" value="Shout_Shield_Githzerai"/>
+          <attribute id="UUID" type="guid" value="cff754a0-ce76-4596-8df4-110d3a4cbf0e"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Githzerai Mage Hand"/>
+          <attribute id="Spells" type="LSString" value="Target_MageHand_GithzeraiPsionics"/>
+          <attribute id="UUID" type="guid" value="ebac8043-4fd0-457e-8126-538c166dfb5c"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

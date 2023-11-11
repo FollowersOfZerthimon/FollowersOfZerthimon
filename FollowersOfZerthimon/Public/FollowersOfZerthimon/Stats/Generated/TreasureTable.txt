@@ -1,0 +1,10 @@
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_A" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_B" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_C" ,1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GTZ_BOOK_Circles_D" ,1,0,0,0,0,0,0,0

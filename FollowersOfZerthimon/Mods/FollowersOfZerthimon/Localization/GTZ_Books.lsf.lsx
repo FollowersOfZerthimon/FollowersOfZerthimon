@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="3" minor="0" revision="0" build="0" lslib_meta="v1,bswap_guids"/>
+  <region id="TranslatedStringKeys">
+    <node id="TranslatedStringKeys">
+      <children>
+        <node id="TranslatedStringKey">
+          <attribute id="Content" type="TranslatedString" handle="h5f70bb37g9548g4c86g8ef8ga61134408a2e" value=""/>
+          <attribute id="UUID" type="FixedString" value="GTZ_Circles_A"/>
+          <attribute id="Speaker" type="FixedString" value="NOTUSED"/>
+          <attribute id="ExtraData" type="LSString" value=""/>
+          <attribute id="Stub" type="bool" value="False"/>
+        </node>
+        <node id="TranslatedStringKey">
+          <attribute id="Content" type="TranslatedString" handle="hbb70cf61g7100g4390ga685g11c1b1319823" value=""/>
+          <attribute id="UUID" type="FixedString" value="GTZ_Circles_B"/>
+          <attribute id="Speaker" type="FixedString" value="NOTUSED"/>
+          <attribute id="ExtraData" type="LSString" value=""/>
+          <attribute id="Stub" type="bool" value="False"/>
+        </node>
+        <node id="TranslatedStringKey">
+          <attribute id="Content" type="TranslatedString" handle="h62cc5111gf6d6g4364g8192ge91f2f49ae3d" value=""/>
+          <attribute id="UUID" type="FixedString" value="GTZ_Circles_C"/>
+          <attribute id="Speaker" type="FixedString" value="NOTUSED"/>
+          <attribute id="ExtraData" type="LSString" value=""/>
+          <attribute id="Stub" type="bool" value="False"/>
+        </node>
+        <node id="TranslatedStringKey">
+          <attribute id="Content" type="TranslatedString" handle="haac43791gaf4ag4b2cgb3cdga91587612cde" value=""/>
+          <attribute id="UUID" type="FixedString" value="GTZ_Circles_D"/>
+          <attribute id="Speaker" type="FixedString" value="NOTUSED"/>
+          <attribute id="ExtraData" type="LSString" value=""/>
+          <attribute id="Stub" type="bool" value="False"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

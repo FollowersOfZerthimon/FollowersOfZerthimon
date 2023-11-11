@@ -1,37 +1,37 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <save>
-  <version major="4" minor="0" revision="9" build="328" />
+  <version major="4" minor="0" revision="9" build="328"/>
   <region id="Config">
     <node id="root">
       <children>
-        <node id="Dependencies" />
+        <node id="Dependencies"/>
         <node id="ModuleInfo">
-          <attribute id="Author" type="LSString" value="Suhra" />
-          <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSString" value="Githzerai race proof of concept" />
-          <attribute id="Folder" type="LSString" value="FollowersOfZerthimon" />
-          <attribute id="GMTemplate" type="FixedString" value="" />
-          <attribute id="LobbyLevelName" type="FixedString" value="" />
-          <attribute id="MD5" type="LSString" value="" />
-          <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
-          <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="FollowersOfZerthimon" />
-          <attribute id="NumPlayers" type="uint8" value="4" />
-          <attribute id="PhotoBooth" type="FixedString" value="" />
-          <attribute id="StartupLevelName" type="FixedString" value="" />
-          <attribute id="Tags" type="LSString" value="" />
-          <attribute id="Type" type="FixedString" value="Add-on" />
-          <attribute id="UUID" type="FixedString" value="ae6eacb7-f346-418f-89a9-f0e4c697baab" />
-          <attribute id="Version" type="int64" value="140737488355328" />
+          <attribute id="Author" type="LSString" value="Suhra"/>
+          <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
+          <attribute id="Description" type="LSString" value="Githzerai race proof of concept"/>
+          <attribute id="Folder" type="LSString" value="FollowersOfZerthimon"/>
+          <attribute id="GMTemplate" type="FixedString" value=""/>
+          <attribute id="LobbyLevelName" type="FixedString" value=""/>
+          <attribute id="MD5" type="LSString" value=""/>
+          <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
+          <attribute id="MenuLevelName" type="FixedString" value=""/>
+          <attribute id="Name" type="FixedString" value="FollowersOfZerthimon"/>
+          <attribute id="NumPlayers" type="uint8" value="4"/>
+          <attribute id="PhotoBooth" type="FixedString" value=""/>
+          <attribute id="StartupLevelName" type="FixedString" value=""/>
+          <attribute id="Tags" type="LSString" value=""/>
+          <attribute id="Type" type="FixedString" value="Add-on"/>
+          <attribute id="UUID" type="FixedString" value="ae6eacb7-f346-418f-89a9-f0e4c697baab"/>
+          <attribute id="Version" type="int64" value="140737488355328"/>
           <children>
             <node id="PublishVersion">
-              <attribute id="Version" type="int64" value="140737488355328" />
+              <attribute id="Version" type="int64" value="140737488355328"/>
             </node>
-            <node id="Scripts" />
+            <node id="Scripts"/>
             <node id="TargetModes">
               <children>
                 <node id="Target">
-                  <attribute id="Object" type="FixedString" value="Story" />
+                  <attribute id="Object" type="FixedString" value="Story"/>
                 </node>
               </children>
             </node>

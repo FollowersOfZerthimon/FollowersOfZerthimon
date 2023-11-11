@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids"/>
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="598a8622-5c3b-4adf-8adf-8f09c38dc471"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hd6183f5cg6d4dg4ee3gac43g7c82ed8d538a" version="1"/>
+          <attribute id="Name" type="LSString" value="GTZ_Circles_D"/>
+          <attribute id="LevelName" type="FixedString" value=""/>
+          <attribute id="Type" type="FixedString" value="item"/>
+          <attribute id="ParentTemplateId" type="FixedString" value="23f65dff-a1ca-42fb-91ee-4cbb69450336"/>
+          <attribute id="ReadinessFlags" type="uint32" value="12"/>
+          <attribute id="VisualTemplate" type="FixedString" value="2b6edf0d-5ddc-0f16-b13c-c97b553a2518"/>
+          <children>
+            <node id="Bounds">
+              <children>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="1"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.536167 -0.0410083 -0.304595"/>
+                  <attribute id="Max" type="fvec3" value="0.536167 0.111889 0.30139"/>
+                  <attribute id="Radius" type="float" value="0.312969"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="2"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.536167 -0.0410083 -0.304595"/>
+                  <attribute id="Max" type="fvec3" value="0.536167 0.111889 0.30139"/>
+                  <attribute id="Radius" type="float" value="0.312969"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="0"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.2680835 -0.0410083 -0.1522975"/>
+                  <attribute id="Max" type="fvec3" value="0.2680835 0.111889 0.150695"/>
+                  <attribute id="Radius" type="float" value="0.1564845"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+              </children>
+            </node>
+            <node id="OnUsePeaceActions">
+              <children>
+                <node id="Action">
+                  <attribute id="ActionType" type="int32" value="11"/>
+                  <children>
+                    <node id="Attributes">
+                      <attribute id="Animation" type="FixedString" value=""/>
+                      <attribute id="Conditions" type="LSString" value=""/>
+                      <attribute id="BookId" type="FixedString" value="GTZ_Circles_D"/>
+                    </node>
+                  </children>
+                </node>
+              </children>
+            </node>
+            <node id="OnDestroyActions">
+              <children>
+                <node id="Action">
+                  <attribute id="ActionType" type="int32" value="26"/>
+                  <children>
+                    <node id="Attributes">
+                      <attribute id="Animation" type="FixedString" value=""/>
+                      <attribute id="Conditions" type="LSString" value=""/>
+                      <attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3"/>
+                      <attribute id="PlayOnHUD" type="bool" value="False"/>
+                    </node>
+                  </children>
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="85522b7d-5466-45df-9750-42f57efefeba"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="ha5184ed4g0c29g4f3eg9284g63f26be79d4c" version="1"/>
+          <attribute id="Name" type="LSString" value="GTZ_Circles_A"/>
+          <attribute id="LevelName" type="FixedString" value=""/>
+          <attribute id="Type" type="FixedString" value="item"/>
+          <attribute id="ParentTemplateId" type="FixedString" value="23f65dff-a1ca-42fb-91ee-4cbb69450336"/>
+          <attribute id="ReadinessFlags" type="uint32" value="12"/>
+          <attribute id="VisualTemplate" type="FixedString" value="2b6edf0d-5ddc-0f16-b13c-c97b553a2518"/>
+          <children>
+            <node id="Bounds">
+              <children>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="1"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.536167 -0.0410083 -0.304595"/>
+                  <attribute id="Max" type="fvec3" value="0.536167 0.111889 0.30139"/>
+                  <attribute id="Radius" type="float" value="0.312969"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="2"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.536167 -0.0410083 -0.304595"/>
+                  <attribute id="Max" type="fvec3" value="0.536167 0.111889 0.30139"/>
+                  <attribute id="Radius" type="float" value="0.312969"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="0"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.2680835 -0.0410083 -0.1522975"/>
+                  <attribute id="Max" type="fvec3" value="0.2680835 0.111889 0.150695"/>
+                  <attribute id="Radius" type="float" value="0.1564845"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+              </children>
+            </node>
+            <node id="OnUsePeaceActions">
+              <children>
+                <node id="Action">
+                  <attribute id="ActionType" type="int32" value="11"/>
+                  <children>
+                    <node id="Attributes">
+                      <attribute id="Animation" type="FixedString" value=""/>
+                      <attribute id="Conditions" type="LSString" value=""/>
+                      <attribute id="BookId" type="FixedString" value="GTZ_Circles_A"/>
+                    </node>
+                  </children>
+                </node>
+              </children>
+            </node>
+            <node id="OnDestroyActions">
+              <children>
+                <node id="Action">
+                  <attribute id="ActionType" type="int32" value="26"/>
+                  <children>
+                    <node id="Attributes">
+                      <attribute id="Animation" type="FixedString" value=""/>
+                      <attribute id="Conditions" type="LSString" value=""/>
+                      <attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3"/>
+                      <attribute id="PlayOnHUD" type="bool" value="False"/>
+                    </node>
+                  </children>
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="8a58573a-b3b0-4eaf-ad5b-d36be9300623"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="h18f7d445g31c2g4955gb42dg6461c0faff02" version="1"/>
+          <attribute id="Name" type="LSString" value="GTZ_Circles_C"/>
+          <attribute id="LevelName" type="FixedString" value=""/>
+          <attribute id="Type" type="FixedString" value="item"/>
+          <attribute id="ParentTemplateId" type="FixedString" value="23f65dff-a1ca-42fb-91ee-4cbb69450336"/>
+          <attribute id="ReadinessFlags" type="uint32" value="12"/>
+          <attribute id="VisualTemplate" type="FixedString" value="2b6edf0d-5ddc-0f16-b13c-c97b553a2518"/>
+          <children>
+            <node id="Bounds">
+              <children>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="1"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.536167 -0.0410083 -0.304595"/>
+                  <attribute id="Max" type="fvec3" value="0.536167 0.111889 0.30139"/>
+                  <attribute id="Radius" type="float" value="0.312969"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="2"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.536167 -0.0410083 -0.304595"/>
+                  <attribute id="Max" type="fvec3" value="0.536167 0.111889 0.30139"/>
+                  <attribute id="Radius" type="float" value="0.312969"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="0"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.2680835 -0.0410083 -0.1522975"/>
+                  <attribute id="Max" type="fvec3" value="0.2680835 0.111889 0.150695"/>
+                  <attribute id="Radius" type="float" value="0.1564845"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+              </children>
+            </node>
+            <node id="OnUsePeaceActions">
+              <children>
+                <node id="Action">
+                  <attribute id="ActionType" type="int32" value="11"/>
+                  <children>
+                    <node id="Attributes">
+                      <attribute id="Animation" type="FixedString" value=""/>
+                      <attribute id="Conditions" type="LSString" value=""/>
+                      <attribute id="BookId" type="FixedString" value="GTZ_Circles_C"/>
+                    </node>
+                  </children>
+                </node>
+              </children>
+            </node>
+            <node id="OnDestroyActions">
+              <children>
+                <node id="Action">
+                  <attribute id="ActionType" type="int32" value="26"/>
+                  <children>
+                    <node id="Attributes">
+                      <attribute id="Animation" type="FixedString" value=""/>
+                      <attribute id="Conditions" type="LSString" value=""/>
+                      <attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3"/>
+                      <attribute id="PlayOnHUD" type="bool" value="False"/>
+                    </node>
+                  </children>
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="cd4d7312-afe4-4740-a84f-40241669c6d7"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="h75be4684g437cg408fg97dagd70fed9ba6b8" version="1"/>
+          <attribute id="Name" type="LSString" value="GTZ_Circles_B"/>
+          <attribute id="LevelName" type="FixedString" value=""/>
+          <attribute id="Type" type="FixedString" value="item"/>
+          <attribute id="ParentTemplateId" type="FixedString" value="23f65dff-a1ca-42fb-91ee-4cbb69450336"/>
+          <attribute id="ReadinessFlags" type="uint32" value="12"/>
+          <attribute id="VisualTemplate" type="FixedString" value="2b6edf0d-5ddc-0f16-b13c-c97b553a2518"/>
+          <children>
+            <node id="Bounds">
+              <children>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="1"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.536167 -0.0410083 -0.304595"/>
+                  <attribute id="Max" type="fvec3" value="0.536167 0.111889 0.30139"/>
+                  <attribute id="Radius" type="float" value="0.312969"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="2"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.536167 -0.0410083 -0.304595"/>
+                  <attribute id="Max" type="fvec3" value="0.536167 0.111889 0.30139"/>
+                  <attribute id="Radius" type="float" value="0.312969"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+                <node id="Bound">
+                  <attribute id="Type" type="uint8" value="0"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Min" type="fvec3" value="-0.2680835 -0.0410083 -0.1522975"/>
+                  <attribute id="Max" type="fvec3" value="0.2680835 0.111889 0.150695"/>
+                  <attribute id="Radius" type="float" value="0.1564845"/>
+                  <attribute id="Height" type="float" value="0.18436"/>
+                </node>
+              </children>
+            </node>
+            <node id="OnUsePeaceActions">
+              <children>
+                <node id="Action">
+                  <attribute id="ActionType" type="int32" value="11"/>
+                  <children>
+                    <node id="Attributes">
+                      <attribute id="Animation" type="FixedString" value=""/>
+                      <attribute id="Conditions" type="LSString" value=""/>
+                      <attribute id="BookId" type="FixedString" value="GTZ_Circles_B"/>
+                    </node>
+                  </children>
+                </node>
+              </children>
+            </node>
+            <node id="OnDestroyActions">
+              <children>
+                <node id="Action">
+                  <attribute id="ActionType" type="int32" value="26"/>
+                  <children>
+                    <node id="Attributes">
+                      <attribute id="Animation" type="FixedString" value=""/>
+                      <attribute id="Conditions" type="LSString" value=""/>
+                      <attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3"/>
+                      <attribute id="PlayOnHUD" type="bool" value="False"/>
+                    </node>
+                  </children>
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="e1b0049c-3d63-48a4-ba00-117cd0a29fc9"/>
+          <attribute id="Name" type="LSString" value="BASE_Githzerai_Male"/>
+          <attribute id="LevelName" type="FixedString" value=""/>
+          <attribute id="Type" type="FixedString" value="character"/>
+          <attribute id="ParentTemplateId" type="FixedString" value="9ab35976-3555-4ed7-9343-7e52d8facad5"/>
+          <attribute id="ReadinessFlags" type="uint32" value="12"/>
+          <attribute id="Icon" type="FixedString" value="f0656351-448d-1421-fde6-ba2e9ade0a7f-_(Icon_Githyanki_Male)"/>
+          <attribute id="EquipmentRace" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b"/>
+          <attribute id="IsPlayer" type="bool" value="False"/>
+          <attribute id="NotHardcore" type="bool" value="True"/>
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="f0656351-448d-1421-fde6-ba2e9ade0a7f"/>
+          <attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Male"/>
+          <attribute id="Race" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
+          <children>
+            <node id="Tags">
+              <children>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7"/>
+                </node>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67"/>
+                </node>
+              </children>
+            </node>
+            <node id="LocomotionParams"/>
+          </children>
+        </node>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="fb6c3396-2aea-4800-9e9f-826854a6bdf3"/>
+          <attribute id="Name" type="LSString" value="BASE_Githzerai_Female"/>
+          <attribute id="LevelName" type="FixedString" value=""/>
+          <attribute id="Type" type="FixedString" value="character"/>
+          <attribute id="ParentTemplateId" type="FixedString" value="9ab35976-3555-4ed7-9343-7e52d8facad5"/>
+          <attribute id="ReadinessFlags" type="uint32" value="12"/>
+          <attribute id="VisualTemplate" type="FixedString" value=""/>
+          <attribute id="Icon" type="FixedString" value="ca349532-fe0f-846e-4baf-0f9670f8b463-_(Icon_Githyanki_Female)"/>
+          <attribute id="EquipmentRace" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa"/>
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="ca349532-fe0f-846e-4baf-0f9670f8b463"/>
+          <attribute id="GeneratePortrait" type="LSString" value="Icon_Githyanki_Female"/>
+          <attribute id="Race" type="guid" value="ca1c9216-a0cf-44e7-811a-2f9081c536ed"/>
+          <children>
+            <node id="Tags">
+              <children>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f"/>
+                </node>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67"/>
+                </node>
+              </children>
+            </node>
+            <node id="GameMaster"/>
+            <node id="LocomotionParams"/>
+          </children>
+        </node>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="aac5966c-957f-431b-b85e-36c946fc0b22"/>
+          <attribute id="Name" type="LSString" value="Githzerai_Male_Player"/>
+          <attribute id="LevelName" type="FixedString" value=""/>
+          <attribute id="Type" type="FixedString" value="character"/>
+          <attribute id="ParentTemplateId" type="FixedString" value="e1b0049c-3d63-48a4-ba00-117cd0a29fc9"/>
+          <attribute id="Flag" type="int32" value="0"/>
+          <attribute id="Icon" type="FixedString" value="aaedb135-9561-4ecb-9c4c-0ccb31d6f107-_(Icon_Githyanki_Male)"/>
+          <attribute id="Stats" type="FixedString" value="HeroGithMale"/>
+          <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions"/>
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="aaedb135-9561-4ecb-9c4c-0ccb31d6f107"/>
+          <attribute id="PortraitVisualResourceID" type="FixedString" value="2c0ba7ad-66be-884e-b680-9b7e5a2203a0"/>
+          <children>
+            <node id="SpeakerGroupList">
+              <children>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f"/>
+                </node>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83"/>
+                </node>
+              </children>
+            </node>
+            <node id="Tags">
+              <children>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f"/>
+                </node>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67"/>
+                </node>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed"/>
+                </node>
+              </children>
+            </node>
+            <node id="LocomotionParams"/>
+          </children>
+        </node>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="39c7c3a9-8393-4df9-9bbf-6d52aa7f34db"/>
+          <attribute id="Name" type="LSString" value="Githzerai_Female_Player"/>
+          <attribute id="LevelName" type="FixedString" value=""/>
+          <attribute id="Type" type="FixedString" value="character"/>
+          <attribute id="ParentTemplateId" type="FixedString" value="fb6c3396-2aea-4800-9e9f-826854a6bdf3"/>
+          <attribute id="Flag" type="int32" value="0"/>
+          <attribute id="Icon" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6-_(Icon_Githyanki_Female)"/>
+          <attribute id="Stats" type="FixedString" value="HeroGithFemale"/>
+          <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions"/>
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6"/>
+          <attribute id="PortraitVisualResourceID" type="FixedString" value="00f931b5-7105-da0c-8992-26beeb53dbbc"/>
+          <children>
+            <node id="SpeakerGroupList">
+              <children>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f"/>
+                </node>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83"/>
+                </node>
+              </children>
+            </node>
+            <node id="Tags">
+              <children>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f"/>
+                </node>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67"/>
+                </node>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed"/>
+                </node>
+              </children>
+            </node>
+            <node id="LocomotionParams"/>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with ShinyHobo's BG3 Modder's Multitool-->
+<save>
+  <version major="4" minor="0" revision="9" build="328"/>
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hd33af732gae42g45edgb67cg5ff9a826cef6" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hd1f23e23ge9ecg4061gb49ag0c6a88a77e31" version="1"/>
+          <attribute id="ProgressionTableId" type="guid" value="eccc27e9-0d6f-409a-98d1-c924ce52c364"/>
+          <attribute id="Type" type="FixedString" value="Githzerai"/>
+          <attribute id="UUID" type="guid" value="a46593cd-16d8-4097-8f31-2115e826f023"/> <!-- 61a5ab61-f175-4b39-a64b-8113f9366722 -->
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h3bb11390gc425g4433ga541g0c839090e973" version="2"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="ha0bb1044gdf6cg4c18gbbe8g16935dae77ab" version="5"/>
+          <attribute id="ExactMatch" type="FixedString" value="ActionResource(Movement,9,0)"/>
+          <attribute id="UUID" type="guid" value="1a6758a2-cd1b-478d-b756-e7e8f0461e26"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

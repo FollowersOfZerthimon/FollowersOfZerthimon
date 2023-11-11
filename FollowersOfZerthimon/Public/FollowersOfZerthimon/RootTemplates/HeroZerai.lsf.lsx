@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="330" lslib_meta="v1,bswap_guids"/>
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="aac5966c-957f-431b-b85e-36c946fc0b22"/>
+          <attribute id="Name" type="LSString" value="Githzerai_Male_Player"/>
+          <attribute id="LevelName" type="FixedString" value=""/>
+          <attribute id="Type" type="FixedString" value="character"/>
+          <attribute id="ParentTemplateId" type="FixedString" value="e1b0049c-3d63-48a4-ba00-117cd0a29fc9"/>
+          <attribute id="Flag" type="int32" value="0"/>
+          <attribute id="Icon" type="FixedString" value="aaedb135-9561-4ecb-9c4c-0ccb31d6f107-_(Icon_Githyanki_Male)"/>
+          <attribute id="Stats" type="FixedString" value="HeroGithMale"/>
+          <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions"/>
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="aaedb135-9561-4ecb-9c4c-0ccb31d6f107"/>
+          <attribute id="PortraitVisualResourceID" type="FixedString" value="2c0ba7ad-66be-884e-b680-9b7e5a2203a0"/>
+          <children>
+            <node id="SpeakerGroupList">
+              <children>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f"/>
+                </node>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83"/>
+                </node>
+              </children>
+            </node>
+            <node id="Tags">
+              <children>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f"/>
+                </node>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67"/>
+                </node>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed"/>
+                </node>
+              </children>
+            </node>
+            <node id="LocomotionParams"/>
+          </children>
+        </node>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="39c7c3a9-8393-4df9-9bbf-6d52aa7f34db"/>
+          <attribute id="Name" type="LSString" value="Githzerai_Female_Player"/>
+          <attribute id="LevelName" type="FixedString" value=""/>
+          <attribute id="Type" type="FixedString" value="character"/>
+          <attribute id="ParentTemplateId" type="FixedString" value="fb6c3396-2aea-4800-9e9f-826854a6bdf3"/>
+          <attribute id="Flag" type="int32" value="0"/>
+          <attribute id="Icon" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6-_(Icon_Githyanki_Female)"/>
+          <attribute id="Stats" type="FixedString" value="HeroGithFemale"/>
+          <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions"/>
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="9e645e51-bf7d-4f0a-9c73-4ab3038b43a6"/>
+          <attribute id="PortraitVisualResourceID" type="FixedString" value="00f931b5-7105-da0c-8992-26beeb53dbbc"/>
+          <children>
+            <node id="SpeakerGroupList">
+              <children>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f"/>
+                </node>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83"/>
+                </node>
+              </children>
+            </node>
+            <node id="Tags">
+              <children>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f"/>
+                </node>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="7fa93b80-8ba5-4c1d-9b00-5dd20ced7f67"/>
+                </node>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed"/>
+                </node>
+              </children>
+            </node>
+            <node id="LocomotionParams"/>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
